@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Liv
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning react and python
+- 💞️ I’m looking to collaborate on anything cool
+- 📫 mail me abelivi@gmail.com
